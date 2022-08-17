@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SumitKumar703
+- 👋 Hi, I’m @SumitKumar
 - 👀 I’m interested in Learning New Technologies
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
